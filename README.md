@@ -10,8 +10,8 @@
 
 # 설문조사 (사후)
 
-- [사후 역량조사](m.site.naver.com/23gKA) 사전 설문조사와 동일함!
-- [연수만족도 조사] (forms.gle/ZuA78zpQPfme3JAT9)
+- [사후 역량조사](https://m.site.naver.com/23gKA) 사전 설문조사와 동일함!
+- [연수만족도 조사](https://forms.gle/ZuA78zpQPfme3JAT9)
 - 설문조사는 총 3번입니다 꼭 참여해주세요!!!
 - - 꼭 응답 완료 캡처해두세요!!!
 
