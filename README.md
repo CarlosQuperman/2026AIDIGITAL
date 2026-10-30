@@ -2,7 +2,9 @@
 
 # 본 사이트 접속방법
 
-- gw1.kr/
+- https://gw1.kr/춘교대클로드
+- <img width="197" height="197" alt="image" src="https://github.com/user-attachments/assets/800a3c38-cde5-43e7-af81-5a289fbf13b5" />
+
 
 # 설문조사(사전)
 
