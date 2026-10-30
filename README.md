@@ -1,4 +1,3 @@
-<img width="298" height="53" alt="image" src="https://github.com/user-attachments/assets/8fd3b067-bb39-4f54-b7d4-786b96202fd6" /># 2026AIDIGITAL
 2026 춘천교대 AI 디지털 활용 역량 강화 연수 203호 연수 자료
 
 # 설문조사(사전)
